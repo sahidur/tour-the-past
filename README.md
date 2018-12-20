@@ -6,11 +6,7 @@ User can get information about historical place details, history, opening hour t
 [![AUR](https://img.shields.io/aur/license/yaourt.svg?style=plastic)](https://github.com/sahidur/Aloy/blob/master/LICENSE)
 
 
-
 ![](example/screen.png)
-## Installation
-
-
 ## Release History
 
 * 1.0.1
